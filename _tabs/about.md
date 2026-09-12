@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+주로 회사 점심 시간에 구내식당이나 주변 맛집을 직접 다녀와서 기록하는 블로그입니다.
+매일 같은 메뉴만 먹기 지겨운 직장인 분들에게 조금이라도 영감을 드렸으면 하네요.
+가격, 웨이팅 시간, 재방문 의사까지 솔직하게 남기고 있습니다.
