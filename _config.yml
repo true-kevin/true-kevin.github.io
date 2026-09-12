@@ -72,7 +72,7 @@ theme_mode: # 비워두면 시스템 설정 따라감 (추천)
 
 cdn:
 
-avatar: # 프로필 사진 있으면 나중에 이미지 경로 넣기 (선택)
+avatar: "/assets/img/avatar.png"
 
 social_preview_image:
 
