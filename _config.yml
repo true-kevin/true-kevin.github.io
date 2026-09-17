@@ -29,12 +29,10 @@ twitter:
   username: # 트위터 없으면 비워두세요 (UI에 자동으로 안 뜸)
 
 social:
-  name: "김점심"       # ← 직접 입력
+  name:
   email: "jeomsimg530@gmail.com"           # ← 직접 입력, 개인정보처리방침에도 노출됨
   fediverse_handle:
   links:
-    # https://github.com/true-kevin
-    # 트위터 없으면 이 링크 항목 자체를 지우거나, 위 대신 GitHub만 남겨도 됨
 
 # Site Verification Settings
 webmaster_verifications:
