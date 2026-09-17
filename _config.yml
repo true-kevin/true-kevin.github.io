@@ -29,10 +29,11 @@ twitter:
   username: # 트위터 없으면 비워두세요 (UI에 자동으로 안 뜸)
 
 social:
-  name:
-  email: "jeomsimg530@gmail.com"           # ← 직접 입력, 개인정보처리방침에도 노출됨
+  name: "김점심"
+  email: "jeomsimg530@gmail.com"
   fediverse_handle:
   links:
+    - https://orotamia.com
 
 # Site Verification Settings
 webmaster_verifications:
