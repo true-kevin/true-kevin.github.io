@@ -22,8 +22,8 @@ description: >-
 # 나중에 도메인 연결하면 이 값을 바꿔야 함 (예: https://mysite.com)
 url: "https://orotamia.com"
 
-github:
-  username: 
+# github:
+#   username: 
 
 twitter:
   username: # 트위터 없으면 비워두세요 (UI에 자동으로 안 뜸)
