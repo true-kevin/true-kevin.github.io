@@ -4,7 +4,7 @@ date: 2026-09-17 10:00:00 +0900
 categories: [Jekyll, 개발환경]
 tags: [jekyll, github pages, chirpy, github actions]
 description: "GitHub 계정을 만드는 것부터 Chirpy 테마 템플릿으로 리포지토리를 생성하고, GitHub Actions로 자동 배포되어 실제 사이트가 뜨기까지의 전 과정을 정리했습니다."
-published: false
+published: true
 ---
 
 ## GitHub Pages로 무료로 블로그 만들기
