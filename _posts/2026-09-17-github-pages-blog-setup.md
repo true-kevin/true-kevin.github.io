@@ -4,6 +4,9 @@ date: 2026-09-17 10:00:00 +0900
 categories: [Jekyll, 개발환경]
 tags: [jekyll, github pages, chirpy, github actions]
 description: "GitHub 계정을 만드는 것부터 Chirpy 테마 템플릿으로 리포지토리를 생성하고, GitHub Actions로 자동 배포되어 실제 사이트가 뜨기까지의 전 과정을 정리했습니다."
+image:
+  path: /assets/img/posts/github-pages-setup/00_jekyll_themes_list.png
+  alt: jamstackthemes.dev의 Jekyll 테마 목록
 published: true
 ---
 
