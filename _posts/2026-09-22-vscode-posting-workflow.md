@@ -7,7 +7,7 @@ description: "VS Code로 새 포스트 파일을 만들고, 로컬 미리보기�
 image:
   path: /assets/img/posts/vscode-posting-workflow/27_live_post_detail.png
   alt: 지킬에 포스팅 후 페이지 확인
-published: false
+published: true
 ---
 
 ## 이번 편에서 할 일
