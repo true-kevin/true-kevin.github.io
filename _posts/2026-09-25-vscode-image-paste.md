@@ -22,9 +22,9 @@ published: true
 
 블로그 글에 넣는 이미지는 저작권 문제가 없는 이미지일 수록 좋습니다. 대표적인 저작권 없이 무료로 사용할 수 있는 이미지 제공 사이트 3곳을 소개합니다.
 
-- **Unsplash** — [unsplash.com](https://unsplash.com)
-- **Pixabay** — [pixabay.com](https://pixabay.com)
-- **Pexels** — [pexels.com](https://www.pexels.com)
+- **Unsplash** — [unsplash.com](https://unsplash.com){:target="_blank" rel="noopener"}
+- **Pixabay** — [pixabay.com](https://pixabay.com){:target="_blank" rel="noopener"}
+- **Pexels** — [pexels.com](https://www.pexels.com){:target="_blank" rel="noopener"}
 
 > 세 사이트 모두 무료로 쓸 수 있는 이미지를 제공하지만, 사이트마다 라이선스 조건이 조금씩 다릅니다. 사용 전에 각 사이트의 라이선스 페이지를 한 번 확인해 두세요.
 {: .prompt-info }
